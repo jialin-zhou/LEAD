@@ -5,7 +5,7 @@ This repository contains the implementation of the LEAD algorithm for multi-dime
 ## Algorithm
 
 - **LEAD**: Full version
-- **LEAD-NoKernel**: Simplified variant without kernel
+- **LEAD-NoKernel**: a variant without kernel
 
 ## Dataset
 
