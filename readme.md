@@ -1,8 +1,8 @@
-# LEAD: Learning Label-spEcific feAtures for multi-Dimensional classification
+# Learning Label-Specific Features for Multi-Dimensional Classification
 
 This repository contains the implementation of the LEAD algorithm for multi-dimensional classification.
 
-## Algorithm Variants
+## Algorithm
 
 - **LEAD**: Full version
 - **LEAD-NoKernel**: Simplified variant without kernel
