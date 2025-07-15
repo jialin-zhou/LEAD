@@ -13,7 +13,7 @@ Datasets can be downloaded from: [https://palm.seu.edu.cn/zhangml/Resources.htm#
 
 ## Usage
 
-Run the demo file in MATLAB:
+Run the demo file in MATLAB.
 
 ## Requirements
 
