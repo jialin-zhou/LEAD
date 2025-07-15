@@ -2,7 +2,7 @@
 
 This repository contains the implementation of the LEAD algorithm for multi-dimensional classification.
 
-## Algorithm Variants
+## Algorithm
 
 - **LEAD**: Full version
 - **LEAD-NoKernel**: Simplified variant without kernel
