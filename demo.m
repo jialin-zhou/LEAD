@@ -51,8 +51,7 @@ for numFold=1:numFolds
     gamma = 0.1;
     numK = 10;
 
-    % [ Eval,y_predict ] = LEAD(X_train,y_train,X_test,y_test,theta,alpha,gamma,numK);
-    [ Eval,y_predict ] = LEAD_NoKernel(X_train,y_train,X_test,y_test,theta,alpha,gamma,numK);
+    [ Eval,y_predict ] = LEAD(X_train,y_train,X_test,y_test,theta,alpha,gamma,numK);
     disp(['HammingScore=',num2str(Eval.HS,'%4.3f'),', ExactMatch=',num2str(Eval.EM,'%4.3f'),', SubExactMatch=',num2str(Eval.SEM,'%4.3f')]);
     
     HammingScore(numFold) = Eval.HS;
